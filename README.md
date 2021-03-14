@@ -1,2 +1,8 @@
-# qa_guru_4_8_jenkins_allure_selenoid
-8. Параметризация в коде и в Jenkins + Allure Reports
+# 8. Параметризация в коде и в Jenkins + Allure Reports
+
+qa_guru_4_8_jenkins_allure_selenoid
+
+
+1. Настройка запуска ui-автотестов с удаленным контейнером (Selenoid)
+2. Добавление параметризации к сборке автотестов и джобе в Jenkins
+3. Вложения в Allure-отчете - скриншоты, лог консоли, видео
